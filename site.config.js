@@ -7,8 +7,8 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Yutong-Portfolio',
-  domain: 'yutong-liu.design',
+  name: 'Yutong-liu',
+  domain: 'https://chocolate-abrosaurus-4eb.notion.site/Yutong-TT-3bdc6b03ca04466fbb7ad6e170411146',
   author: 'Yutong Liu',
 
   // open graph metadata (optional)
@@ -25,7 +25,7 @@ module.exports = {
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
   defaultPageCover: null,
-  defaultPageCoverPosition: 0.5,
+  defaultPageCoverPosition: 1,
 
   // image CDN host to proxy all image requests through (optional)
   // NOTE: this requires you to set up an external image proxy
